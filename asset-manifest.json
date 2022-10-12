@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spartacoding-bucket-list/static/css/main.11ed030f.css",
-    "main.js": "/spartacoding-bucket-list/static/js/main.ecd64e3f.js",
+    "main.js": "/spartacoding-bucket-list/static/js/main.816b4904.js",
     "static/js/787.af6f337f.chunk.js": "/spartacoding-bucket-list/static/js/787.af6f337f.chunk.js",
     "index.html": "/spartacoding-bucket-list/index.html",
     "main.11ed030f.css.map": "/spartacoding-bucket-list/static/css/main.11ed030f.css.map",
-    "main.ecd64e3f.js.map": "/spartacoding-bucket-list/static/js/main.ecd64e3f.js.map",
+    "main.816b4904.js.map": "/spartacoding-bucket-list/static/js/main.816b4904.js.map",
     "787.af6f337f.chunk.js.map": "/spartacoding-bucket-list/static/js/787.af6f337f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11ed030f.css",
-    "static/js/main.ecd64e3f.js"
+    "static/js/main.816b4904.js"
   ]
 }
