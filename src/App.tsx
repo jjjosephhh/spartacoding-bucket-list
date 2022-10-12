@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <div className="mypic">
-        <h1>My Bucket List</h1>
+        <h1>Bucket List</h1>
       </div>
       <div className="mybox">
         <div className="mybucket">
